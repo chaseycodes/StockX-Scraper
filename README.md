@@ -16,7 +16,7 @@ pip install selenium
 1. URL-Scraper: Will return every sneaker's URL and Image URL as a json file.
 2. Sneaker-Scraper: Using the file from URL-Scraper, Sneaker-Scraper will open each individual page and return its data into a new json file. 
 3. Image-Downloader: Using the files from Sneaker-Scraper, Image-Downloader will save each sneaker image into static.
-> DISCLAIMER: Due to amount of time it takes to complete the program, this program is intentionally written as separate programs to save its progress and avoid restart. 
+> DISCLAIMER: Due to amount of time it takes to complete, it is intentionally written as separate programs to save progress and avoid restart. 
 
 ## Run - [from root folder]
 ```python
